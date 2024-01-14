@@ -14,3 +14,8 @@ This repo will follow the curriculumn of the boot.dev lessions, so it would make
 something like:
 
 > chapter-num_lesson-num_lesson-name.py
+
+## UPDATE
+
+I got the membership.........so I'll stop doing this
+I was getting kind of annoying and slow for me to keep doing this, the ordering of the files and whatnot, it doesn't help much when it comes to learning
