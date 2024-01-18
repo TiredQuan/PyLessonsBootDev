@@ -19,3 +19,9 @@ something like:
 
 I got the membership.........so I'll stop doing this
 I was getting kind of annoying and slow for me to keep doing this, the ordering of the files and whatnot, it doesn't help much when it comes to learning
+
+## ANOTHER UPDATE
+
+I realize that I'm addicted to protecting my spree, and I want to make sure I finish this without losing my streak, so I'll use scummy tactics instead >:)
+Can't lose shields on hard questions if you don't test in the site itself :)
+can't believe i'm tryharding a coding course
